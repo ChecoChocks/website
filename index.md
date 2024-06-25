@@ -5,7 +5,7 @@ layout: home
 
 # Sergio's Website
 ## Rising Senior
-![Sergio's Professinal Headshot()
+![Sergio's Professinal Headshot](GigaChad.jpg)
 
 <html lang="en">
 <head>
